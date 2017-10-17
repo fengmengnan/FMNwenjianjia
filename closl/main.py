@@ -1,4 +1,3 @@
-[python] view plain copy print?
 #-*- coding:utf-8 -*-  
 __author__ = 'fmn'  
 import re  
